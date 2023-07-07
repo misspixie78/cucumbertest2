@@ -1,4 +1,4 @@
-Feature: Good application
+Feature: GDS Update
     As an agent I want to replace some of the systems that are in the email addresses 
     for all GDS systems for the PE and CTCE command
     So that I dont have to do it manually
